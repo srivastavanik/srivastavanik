@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @srivastavanik
+- 👀 I’m interested in AI, ML, and NLP --> Applications in Finance
+- 🌱 I’m currently studying Economics & Data Science @ UC Berkeley
+- 📫 Reach me at nicksriv@outlook.com
