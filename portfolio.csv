@@ -1,0 +1,43 @@
+Ticker,Weight,Sector,Region,Asset_Class,Price_Data_Start,Price_Data_End
+AAPL,0.02,Technology,North America,Equity,2020-01-01,2023-01-01
+MSFT,0.02,Technology,North America,Equity,2020-01-01,2023-01-01
+AMZN,0.02,Consumer Discretionary,North America,Equity,2020-01-01,2023-01-01
+GOOGL,0.02,Communication Services,North America,Equity,2020-01-01,2023-01-01
+JNJ,0.02,Healthcare,North America,Equity,2020-01-01,2023-01-01
+TSM,0.02,Technology,Asia,Equity,2020-01-01,2023-01-01
+BABA,0.02,Consumer Discretionary,Asia,Equity,2020-01-01,2023-01-01
+NSRGY,0.02,Consumer Staples,Europe,Equity,2020-01-01,2023-01-01
+SAP,0.02,Technology,Europe,Equity,2020-01-01,2023-01-01
+VALE,0.02,Materials,Latin America,Equity,2020-01-01,2023-01-01
+SPY,0.05,Multi-Sector,North America,ETF,2020-01-01,2023-01-01
+EFA,0.05,Multi-Sector,Global,ETF,2020-01-01,2023-01-01
+AGG,0.05,Fixed Income,North America,Bond,2020-01-01,2023-01-01
+BNDX,0.05,Fixed Income,Global,Bond,2020-01-01,2023-01-01
+VNQ,0.05,Real Estate,North America,REIT,2020-01-01,2023-01-01
+GLD,0.05,Commodities,Global,Commodity,2020-01-01,2023-01-01
+BTC-USD,0.01,Cryptocurrency,Global,Alternative,2020-01-01,2023-01-01
+ETH-USD,0.01,Cryptocurrency,Global,Alternative,2020-01-01,2023-01-01
+TLT,0.03,Fixed Income,North America,Bond,2020-01-01,2023-01-01
+LQD,0.03,Corporate Bonds,North America,Bond,2020-01-01,2023-01-01
+EMB,0.03,Emerging Markets Debt,Global,Bond,2020-01-01,2023-01-01
+VEA,0.03,Developed Markets,Global,Equity,2020-01-01,2023-01-01
+VWO,0.03,Emerging Markets,Global,Equity,2020-01-01,2023-01-01
+SCHH,0.03,Real Estate,North America,REIT,2020-01-01,2023-01-01
+USO,0.02,Energy,Global,Commodity,2020-01-01,2023-01-01
+PDBC,0.02,Commodities,Global,Commodity,2020-01-01,2023-01-01
+TIP,0.03,Inflation-Protected Bonds,North America,Bond,2020-01-01,2023-01-01
+SHY,0.03,Short-Term Treasuries,North America,Bond,2020-01-01,2023-01-01
+MUB,0.03,Municipal Bonds,North America,Bond,2020-01-01,2023-01-01
+XLF,0.02,Financials,North America,Equity,2020-01-01,2023-01-01
+XLV,0.02,Healthcare,North America,Equity,2020-01-01,2023-01-01
+XLE,0.02,Energy,North America,Equity,2020-01-01,2023-01-01
+XLY,0.02,Consumer Discretionary,North America,Equity,2020-01-01,2023-01-01
+XLI,0.02,Industrials,North America,Equity,2020-01-01,2023-01-01
+XLK,0.02,Technology,North America,Equity,2020-01-01,2023-01-01
+XLP,0.02,Consumer Staples,North America,Equity,2020-01-01,2023-01-01
+XLU,0.02,Utilities,North America,Equity,2020-01-01,2023-01-01
+XLB,0.02,Materials,North America,Equity,2020-01-01,2023-01-01
+XLRE,0.02,Real Estate,North America,Equity,2020-01-01,2023-01-01
+ARKK,0.03,Innovation,Global,ETF,2020-01-01,2023-01-01
+ARKG,0.03,Genomics,Global,ETF,2020-01-01,2023-01-01
+ICLN,0.03,Clean Energy,Global,ETF,2020-01-01,2023-01-01
